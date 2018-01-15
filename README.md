@@ -3,7 +3,7 @@ This small gulp plugin speedups your gulp start time by requiring plugins only w
 
 ## Installation
 ```
-npm install yivo/gulp-lazyload
+npm install kevgk/gulp-lazyload
 ```
 
 ## Usage
