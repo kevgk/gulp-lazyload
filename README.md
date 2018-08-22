@@ -1,5 +1,5 @@
 Ported from coffeescript to js.
-All credits go to yivo.
+All credits go to @yivo.
 
 # gulp-iife
 This small gulp plugin speedups your gulp start time by requiring plugins only when they really are needed!
